@@ -1,0 +1,14 @@
+{
+  "name": "ejempl_node",
+  "version": "1.0.0",
+  "description": "ejemplos paquetes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "duber",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
